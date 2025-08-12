@@ -1,1 +1,4 @@
 Este arquivo contem ifnormaçôes adicionais para git
+
+- Primeiro comando
+- Segunddo comando
