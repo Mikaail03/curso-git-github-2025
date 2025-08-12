@@ -5,3 +5,7 @@ Este arquivo contem ifnormaçôes adicionais para git
 
 # Comandos mais genericos 
 - comandos estranhos
+
+# Mais comandos!!!
+
+ffufhufh
