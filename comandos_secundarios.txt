@@ -2,3 +2,10 @@ Este arquivo contem ifnormaçôes adicionais para git
 
 - Primeiro comando
 - Segunddo comando
+
+# Comandos mais genericos 
+- comandos estranhos
+
+# Mais comandos!!!
+
+ffufhufh
