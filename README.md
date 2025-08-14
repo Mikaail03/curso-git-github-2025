@@ -8,3 +8,7 @@ repositorios remotos com GitHub.
 Alem disso, vamos trabalhar com
 GitFlow ao final do curso e
 Visual Studio Code.
+
+[Curso Git 2025]
+
+Curso muito bom, nao tem jeito.
